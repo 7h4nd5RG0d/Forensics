@@ -13,5 +13,5 @@ Opening it we get a code.
 Converting it to python we get the flag..##  
 
 ##### CODE:   
-https://github.com/7h4nd5RG0d/UoftCTF-2024-/blob/main/CODE2.py
+https://github.com/7h4nd5RG0d/Forensics/blob/main/UofTCTF/Nogrep/CODE.py  
 ##### FLAG: uoftctf{0dd_w4y_t0_run_pw5h}
