@@ -10,7 +10,8 @@ So now we have to just script a code.
 #### CODE: https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/usualtraffic/CODE.py  
 
 Now we have ciphertext(that looks like it has also been base64 encoded beacuse of \ in secret),the iv and the key.
-
+Also since the key,IV are in hex we have to convert the decoded secrets to hex for AES decryption.  
 So first decrytpting both the secrets using base64 and then using AES to decode we get the flag.
 
+#### CODE: https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/usualtraffic/AES.py  
 
