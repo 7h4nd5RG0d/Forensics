@@ -8,7 +8,7 @@ We can get the macros code using olevba
 Converting the VBA code to python we can get the flag by printing v9.  
 
 ##### CODE:
-https://github.com/7h4nd5RG0d/UoftCTF-2024-/blob/main/CODE.py  
+https://github.com/7h4nd5RG0d/Forensics/blob/main/UofTCTF/EnableMe/CODE.py 
 
 
 ##### FLAG: 
