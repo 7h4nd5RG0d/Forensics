@@ -1,0 +1,62 @@
+# UoftCTF-2024-
+Forensic Writeups
+
+## Secret Message 1(100)
+
+### File: https://play.uoftctf.org/files/c1a0ac9cb4002be01190ed6864d7d5de/secret.pdf?token=eyJ1c2VyX2lkIjoxODMxLCJ0ZWFtX2lkIjoxMTI0LCJmaWxlX2lkIjo1OX0.ZaU-dg.3PcX7QyU6qQp3dL6KQLxreC_URE
+
+#### Approach:   
+##### 1)Method Using pdftotext-->   
+pdftotext a.pdf  
+cat a.txt
+##### 2)Mathod Using pdfextract-->
+pdfextract a.pdf  
+cd a.dump  
+cd streams  
+cat *.dmp |grep -i 'ctf'  
+
+##### FLAG: uoftctf{fired_for_leaking_secrets_in_a_pdf}
+
+## EnableMe(358)
+
+### File: https://play.uoftctf.org/files/0e668b259a7d8e2030859f171bcded20/invoice.docm?token=eyJ1c2VyX2lkIjoxODMxLCJ0ZWFtX2lkIjoxMTI0LCJmaWxlX2lkIjo3MH0.ZaU_1g.i3Vb611reQW9AYM1muSjWkx__Ww
+
+#### Approach:
+Using oledump we get ![image](https://github.com/7h4nd5RG0d/UoftCTF-2024-/assets/128285431/1256e256-bd24-46bd-8386-b9ff5a1c040c) 
+This shows that we have macros in ThisDocument
+We can get the macros code using olevba
+![image](https://github.com/7h4nd5RG0d/UoftCTF-2024-/assets/128285431/158d02f3-a5a4-493b-b0e3-236055b21f9a)  
+Converting the VBA code to python we can get the flag by printing v9.  
+
+##### CODE:
+https://github.com/7h4nd5RG0d/UoftCTF-2024-/blob/main/CODE.py  
+
+
+##### FLAG: 
+![image](https://github.com/7h4nd5RG0d/UoftCTF-2024-/assets/128285431/c9d6a8cd-60de-453c-84ff-a6b0dd1f3456)  
+
+## Nogrep(475)
+
+### File: https://storage.googleapis.com/hourglass-uoftctf/ctf_vm.zip  
+#### Approach: 
+Downloading the VM and setting it up in virtualbox we can start looking for the flag.  
+Took some time of exploring until I found something interesting, THE POWERSHELL CONSOLE HISTORY!!  
+This is usually the jackpot file as it contains a hell lot of information.  
+It was under C:\Users\analyst\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine
+![image](https://github.com/7h4nd5RG0d/UoftCTF-2024-/assets/128285431/76725008-1763-48c0-af07-873124727526)  
+This line looks suspicious Set-Alias -Name UpdateSystem -Value "C:\Windows\Web\Wallpaper\Theme2\update.ps1"  
+So going to the location C:\Windows\Web\Wallpaper we see that there is no theme2 folder(!!!)  
+But if you see under the Flowers directory we see an update file.  
+Opening it we get a code.  
+![image](https://github.com/7h4nd5RG0d/UoftCTF-2024-/assets/128285431/260610f0-45e7-43a0-a949-f1261f1d5803)    
+Converting it to python we get the flag..##  
+
+##### CODE:   
+https://github.com/7h4nd5RG0d/UoftCTF-2024-/blob/main/CODE2.py
+##### FLAG: uoftctf{0dd_w4y_t0_run_pw5h}
+
+ 
+
+
+
+
