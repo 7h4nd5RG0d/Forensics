@@ -5,7 +5,8 @@ Forensics in a nutshell
 ## Steganography CTF writeups --> https://github.com/7h4nd5RG0d/Forensics/tree/main/Steganography  
 
 # TOOLS:  
-1) Wireshark
+1) Wireshark/tshark  
 2) npiet --> https://www.bertnase.de/npiet/
-3) 
+3) Network Miner --> https://www.netresec.com/?page=NetworkMiner
+4) 
 
