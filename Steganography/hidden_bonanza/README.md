@@ -1,4 +1,4 @@
-# File: 
+# File: https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/hidden_bonanza/HiddenDataandMetadatainAdobePDFFiles.pdf  
 
 ## Solve:  
 Opening the pdf in the pdfstreamdumper we see that in the last stream there are bytes of jpg(JFIF) as well as zip(PK)  
