@@ -9,5 +9,7 @@ Forensics in a nutshell
 2) piet estoric language decoder --> https://www.bertnase.de/npiet/
 3) Network Miner --> https://www.netresec.com/?page=NetworkMiner
 4) PDFstreamdumper --> http://sandsprite.com/blogs/index.php?uid=7&pid=57
-5) 
+5) HxD
+6) qpdf -->https://github.com/qpdf/qpdf
+7) 
 
