@@ -6,7 +6,7 @@ Forensics in a nutshell
 
 # TOOLS:  
 1) Wireshark/tshark  
-2) npiet --> https://www.bertnase.de/npiet/
+2) npiet decoder --> https://www.bertnase.de/npiet/
 3) Network Miner --> https://www.netresec.com/?page=NetworkMiner
 4) 
 
