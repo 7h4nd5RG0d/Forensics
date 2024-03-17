@@ -8,4 +8,4 @@ Unzipping using the password in png image we get a file not recognisable by linu
 Viewing the file in a text editor we see that it is of the format of PDF but with some shift.  
 So using bruteforce in ROT cipher we see that ROT13 gives the PDF file.  
 Again going through the streams, one is of particualr interest, the one with FlatDecode Filter.  
-Using 'qpdf' tool we can deocde this data to get the flag.  
+Using 'qpdf' tool we can decode this data to get the flag.  
