@@ -13,3 +13,6 @@ Forensics in a nutshell
 6) qpdf -->https://github.com/qpdf/qpdf
 7) 
 
+# Resources:  
+1) https://en.wikipedia.org/wiki/List_of_file_signatures
+2) 
