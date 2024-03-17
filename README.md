@@ -16,7 +16,8 @@ Forensics in a nutshell
 8) FTK imager
 9) Firefox Password --> https://github.com/lclevy/firepwd
 10) Python installer retreiveal from EXE --> https://github.com/extremecoders-re/pyinstxtractor
-11) Python decompiler --> https://github.com/rocky/python-uncompyle6  
+11) Python decompiler --> https://github.com/rocky/python-uncompyle6
+12) Silenteye --> https://achorein.github.io/silenteye/download/?i2
 
 # Resources:  
 1) https://en.wikipedia.org/wiki/List_of_file_signatures
