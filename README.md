@@ -18,6 +18,9 @@ Forensics in a nutshell
 10) Python installer retreiveal from EXE --> https://github.com/extremecoders-re/pyinstxtractor
 11) Python decompiler --> https://github.com/rocky/python-uncompyle6
 12) Silenteye --> https://achorein.github.io/silenteye/download/?i2
+13) Chainsaw --> https://github.com/WithSecureLabs/chainsaw
+14) Windows Defender Quarantine Decryptor --> https://github.com/zam89/Windows-Defender-Quarantine-File-Decryptor
+15) 
 
 # Resources:  
 1) https://en.wikipedia.org/wiki/List_of_file_signatures
