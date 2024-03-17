@@ -14,7 +14,8 @@ Forensics in a nutshell
 6) qpdf -->https://github.com/qpdf/qpdf
 7) Autopsy
 8) FTK imager
-9) 
+9) Firefox Password --> https://github.com/lclevy/firepwd
+10) 
 
 # Resources:  
 1) https://en.wikipedia.org/wiki/List_of_file_signatures
