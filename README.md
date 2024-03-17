@@ -12,7 +12,9 @@ Forensics in a nutshell
 4) PDFstreamdumper --> http://sandsprite.com/blogs/index.php?uid=7&pid=57
 5) HxD
 6) qpdf -->https://github.com/qpdf/qpdf
-7) 
+7) Autopsy
+8) FTK imager
+9) 
 
 # Resources:  
 1) https://en.wikipedia.org/wiki/List_of_file_signatures
