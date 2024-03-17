@@ -19,4 +19,4 @@ Forensics in a nutshell
 
 # Resources:  
 1) https://en.wikipedia.org/wiki/List_of_file_signatures
-2) 
+2) https://docs.fileformat.com/executable/ 
