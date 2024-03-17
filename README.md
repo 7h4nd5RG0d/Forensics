@@ -20,8 +20,10 @@ Forensics in a nutshell
 12) Silenteye --> https://achorein.github.io/silenteye/download/?i2
 13) Chainsaw --> https://github.com/WithSecureLabs/chainsaw
 14) Windows Defender Quarantine Decryptor --> https://github.com/zam89/Windows-Defender-Quarantine-File-Decryptor
-15) 
+15) Code decompiler(C# for malware analysis) --> https://github.com/icsharpcode/AvaloniaILSpy/releases
+16) 
 
 # Resources:  
-1) https://en.wikipedia.org/wiki/List_of_file_signatures
-2) https://docs.fileformat.com/executable/ 
+1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
+2) https://docs.fileformat.com/executable/
+3) Windows Defender --> https://reversingfun.com/posts/how-to-extract-quarantine-files-from-windows-defender/
