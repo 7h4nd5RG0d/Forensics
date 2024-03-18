@@ -21,7 +21,8 @@ Forensics in a nutshell
 13) Chainsaw --> https://github.com/WithSecureLabs/chainsaw
 14) Windows Defender Quarantine Decryptor --> https://github.com/zam89/Windows-Defender-Quarantine-File-Decryptor
 15) Code decompiler(C# for malware analysis) --> https://github.com/icsharpcode/AvaloniaILSpy/releases
-16) 
+16) .evtx to JSON for better parsing --> https://github.com/omerbenamram/evtx/releases
+17) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
