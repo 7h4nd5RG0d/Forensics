@@ -1,4 +1,5 @@
-# File: https://drive.google.com/file/d/1hPBksCtm3a4wGs9cd8DYkM4mcV0aNCEJ/view  
+# File: 
+https://drive.google.com/file/d/1hPBksCtm3a4wGs9cd8DYkM4mcV0aNCEJ/view  
 
 ## Solve:
 #### Logic: RAID(Redundant Array of Independent Disks)  
