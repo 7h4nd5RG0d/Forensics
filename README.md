@@ -23,7 +23,8 @@ Forensics in a nutshell
 15) Code decompiler(C# for malware analysis) --> https://github.com/icsharpcode/AvaloniaILSpy/releases
 16) .evtx to JSON for better parsing --> https://github.com/omerbenamram/evtx/releases
 17) MFT parser --> https://aboutdfir.com/toolsandartifacts/windows/mft-explorer-mftecmd/2/
-18) 
+18) 7-zip File Manager
+19) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
