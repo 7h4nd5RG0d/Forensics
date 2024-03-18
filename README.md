@@ -6,12 +6,12 @@ Forensics in a nutshell
 ## Memory CTF Writeups --> https://github.com/7h4nd5RG0d/Forensics/tree/main/Memory  
 
 # TOOLS:  
-1) Wireshark/tshark  
+1) Wireshark/tshark(KALI)    
 2) piet estoric language decoder --> https://www.bertnase.de/npiet/
 3) Network Miner --> https://www.netresec.com/?page=NetworkMiner
 4) PDFstreamdumper --> http://sandsprite.com/blogs/index.php?uid=7&pid=57
 5) HxD
-6) qpdf -->https://github.com/qpdf/qpdf
+6) qpdf(KALI) -->https://github.com/qpdf/qpdf
 7) Autopsy
 8) FTK imager
 9) Firefox Password --> https://github.com/lclevy/firepwd
@@ -24,7 +24,8 @@ Forensics in a nutshell
 16) .evtx to JSON for better parsing --> https://github.com/omerbenamram/evtx/releases
 17) MFT parser --> https://aboutdfir.com/toolsandartifacts/windows/mft-explorer-mftecmd/2/
 18) 7-zip File Manager
-19) 
+19) pffexport(KALI) --> https://www.venea.net/man/pffexport(1)
+20) regripper(KALI) --> https://github.com/keydet89/RegRipper4.0
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
