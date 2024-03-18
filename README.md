@@ -26,6 +26,8 @@ Forensics in a nutshell
 18) 7-zip File Manager
 19) pffexport(KALI) --> https://www.venea.net/man/pffexport(1)
 20) regripper(KALI) --> https://github.com/keydet89/RegRipper4.0
+21) Amcache Parser --> https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip
+22) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
