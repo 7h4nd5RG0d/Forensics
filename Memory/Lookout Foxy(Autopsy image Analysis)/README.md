@@ -1,4 +1,5 @@
-# File: https://drive.google.com/drive/folders/1EICM8RCZB4jHm63M6Y2Dua2Ir8zOaj5B  
+# File: 
+https://drive.google.com/drive/folders/1EICM8RCZB4jHm63M6Y2Dua2Ir8zOaj5B  
 
 ## Solve:  
 https://blog.bi0s.in/2020/08/03/Forensics/InCTFi20-LookoutFoxy/  
