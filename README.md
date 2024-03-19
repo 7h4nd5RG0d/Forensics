@@ -28,7 +28,10 @@ Forensics in a nutshell
 20) regripper(KALI) --> https://github.com/keydet89/RegRipper4.0
 21) Amcache Parser --> https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip
 22) Registry Explorer --> https://www.sans.org/tools/registry-explorer/
-23) 
+23) MFTecmd --> https://www.sans.org/tools/mftecmd/
+24) NTFS log tracker -->https://sites.google.com/site/forensicnote/ntfs-log-tracker
+25) SQlite db browser
+26)  
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
