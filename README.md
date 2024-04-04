@@ -33,7 +33,8 @@ Forensics in a nutshell
 25) SQlite db browser
 26) Acropalypse( CVE of cropping images) --> https://github.com/frankthetank-music/Acropalypse-Multi-Tool
 27) Analyzing .DMP files(Mimikatz in python) --> https://github.com/skelsec/pypykatz
-28) 
+28) Mozilla forensic tool --> https://github.com/Busindre/dumpzilla
+29) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
