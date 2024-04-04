@@ -32,7 +32,8 @@ Forensics in a nutshell
 24) NTFS log tracker -->https://sites.google.com/site/forensicnote/ntfs-log-tracker
 25) SQlite db browser
 26) Acropalypse( CVE of cropping images) --> https://github.com/frankthetank-music/Acropalypse-Multi-Tool
-27) 
+27) Analyzing .DMP files(Mimikatz in python) --> https://github.com/skelsec/pypykatz
+28) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
