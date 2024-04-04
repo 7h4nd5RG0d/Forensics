@@ -40,3 +40,5 @@ Forensics in a nutshell
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
 2) https://docs.fileformat.com/executable/
 3) Windows Defender --> https://reversingfun.com/posts/how-to-extract-quarantine-files-from-windows-defender/
+4) TCP using nmap --> https://nmap.org/book/scan-methods-null-fin-xmas-scan.html
+5) 
