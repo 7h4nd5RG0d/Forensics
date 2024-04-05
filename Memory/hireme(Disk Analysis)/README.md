@@ -15,6 +15,7 @@ For google chrome history --> History present in google/chrome/userdata/default
 For timezone --> regripper -p timezone -r SYSTEM  
 For DHCP lease time --> regripper -p networklist -r SOFTWARE  
 For ip of system --> regripper -p ips -r SYSTEM  
+For usb devices --> regripper -p usbdevices -r SYSTEM  
 
 
 **Also files in outlook are stored as .ost or .pst files**   
