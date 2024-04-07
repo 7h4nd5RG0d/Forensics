@@ -38,11 +38,13 @@ Forensics in a nutshell
 30) Prefecth cmdline --> https://github.com/dfir-scripts/prefetchruncounts (for pyscca --> https://pypi.org/project/libscca-python/#files)  
 31) Shellbag Explorer --> https://ericzimmerman.github.io/#!index.md
 32) Jumplist explorer --> https://ericzimmerman.github.io/#!index.md
-33) 
+33) Windbg --> http://www.windbg.org/
+34) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
 2) https://docs.fileformat.com/executable/
 3) Windows Defender --> https://reversingfun.com/posts/how-to-extract-quarantine-files-from-windows-defender/
 4) TCP using nmap --> https://nmap.org/book/scan-methods-null-fin-xmas-scan.html
-5) 
+5) Volatility notepad dumping(VAD--Windbg) --> https://infosecwriteups.com/extracting-an-unsaved-memory-content-by-walking-through-windows-heaps-but-how-6992589d872e
+6) 
