@@ -3,7 +3,7 @@ https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/Notoriously%20Trick
 # Solve:  
 
 The first task is to find the username.  
-It can be found easilt by follwing the packets("adamkadaban")  
+It can be found easily by following the packets("adamkadaban")  
 Now we were asked to crack the password.  
 In "tcp.stream eq 19" we can all the information needed( This might be just one hash that can be cracked, other packets can also be used to crack the password)  
 
