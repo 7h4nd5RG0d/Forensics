@@ -47,4 +47,5 @@ Forensics in a nutshell
 3) Windows Defender --> https://reversingfun.com/posts/how-to-extract-quarantine-files-from-windows-defender/
 4) TCP using nmap --> https://nmap.org/book/scan-methods-null-fin-xmas-scan.html
 5) Volatility notepad dumping(VAD--Windbg) --> https://infosecwriteups.com/extracting-an-unsaved-memory-content-by-walking-through-windows-heaps-but-how-6992589d872e
-6) 
+6) Volatility Cheatsheet --> https://blog.onfvp.com/post/volatility-cheatsheet/
+7) 
