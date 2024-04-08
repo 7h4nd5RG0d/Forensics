@@ -35,7 +35,7 @@ Forensics in a nutshell
 27) Analyzing .DMP files(Mimikatz in python) --> https://github.com/skelsec/pypykatz
 28) Mozilla forensic tool --> https://github.com/Busindre/dumpzilla
 29) Prefetch Explorer --> https://github.com/EricZimmerman/PECmd?tab=readme-ov-file
-30) Prefecth cmdline --> https://github.com/dfir-scripts/prefetchruncounts (for pyscca --> https://pypi.org/project/libscca-python/#files)  
+30) Prefetch cmdline --> https://github.com/dfir-scripts/prefetchruncounts (for pyscca --> https://pypi.org/project/libscca-python/#files)  
 31) Shellbag Explorer --> https://ericzimmerman.github.io/#!index.md
 32) Jumplist explorer --> https://ericzimmerman.github.io/#!index.md
 33) Windbg --> http://www.windbg.org/
