@@ -40,7 +40,8 @@ Forensics in a nutshell
 32) Jumplist explorer --> https://ericzimmerman.github.io/#!index.md
 33) Windbg --> http://www.windbg.org/
 34) Keepass Dumper(**CVE-2023-32784**) --> https://github.com/vdohney/keepass-password-dumper
-35) 
+35) gittools --> https://github.com/internetwache/GitTools
+36) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
