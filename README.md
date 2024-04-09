@@ -41,7 +41,8 @@ Forensics in a nutshell
 33) Windbg --> http://www.windbg.org/
 34) Keepass Dumper(**CVE-2023-32784**) --> https://github.com/vdohney/keepass-password-dumper
 35) gittools --> https://github.com/internetwache/GitTools
-36) 
+36) minecraft chunks/mpas --> https://www.spigotmc.org/resources/chunky.81534/
+37) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
