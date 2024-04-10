@@ -1,6 +1,5 @@
 # File: 
-https://drive.google.com/file/d/1rJZy-c6KmiIWpV6GPRqL5s8N5WNZ2cRb/view  
-
+https://drive.google.com/file/d/1ktun3sLsT7Hh-VmgCwu-AYFPM8DSeH-D/view?usp=drive_web  
 We need to find the application vulnerable to privelage escalation,its version and its path.  
 
 ## Solve 
