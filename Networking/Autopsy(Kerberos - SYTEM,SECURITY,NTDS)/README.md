@@ -1,5 +1,5 @@
 # File: 
-https://drive.google.com/file/d/12Oh71I8Y9RFpdKRKmWlD_RRgCN7jEIdr/view?pli=1  
+https://drive.google.com/file/d/1YwEMVDPozmOxGvnKbnqa-ZbNTiQ90ivL/view?usp=drive_web
   
 # Solve: 
 https://crazymanarmy.github.io/2023/01/23/Insomni%E2%80%99hack-teaser-2023-Autopsy/index.html  
