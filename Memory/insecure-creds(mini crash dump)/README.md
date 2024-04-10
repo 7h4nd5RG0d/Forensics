@@ -1,5 +1,5 @@
 # File:
-https://drive.google.com/file/d/1hKmw_voHMpMXg7pUsqvdVgoN7nt2e1Ay/view  
+https://drive.google.com/file/d/1Fomjj8zU0i6ZQ4TQ6QGQ5UrAvIQH-YwQ/view?usp=drive_web  
 
 ## Solve:  
 pypykatz lsa minidump insecure-creds.DMP  
