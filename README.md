@@ -43,7 +43,8 @@ Forensics in a nutshell
 35) gittools --> https://github.com/internetwache/GitTools
 36) minecraft chunks/maps --> https://www.spigotmc.org/resources/chunky.81534/
 37) twitter secret messages --> https://holloway.nz/steg/
-38) 
+38) impacket (dumping secrets from NTDS,SYSTEM,SECURITY,SOFTWARE) --> https://github.com/fortra/impacket#quick-start
+39) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
