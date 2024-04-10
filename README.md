@@ -41,7 +41,7 @@ Forensics in a nutshell
 33) Windbg --> http://www.windbg.org/
 34) Keepass Dumper(**CVE-2023-32784**) --> https://github.com/vdohney/keepass-password-dumper
 35) gittools --> https://github.com/internetwache/GitTools
-36) minecraft chunks/mpas --> https://www.spigotmc.org/resources/chunky.81534/
+36) minecraft chunks/maps --> https://www.spigotmc.org/resources/chunky.81534/
 37) twitter secret messages --> https://holloway.nz/steg/
 38) 
 
