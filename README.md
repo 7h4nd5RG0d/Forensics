@@ -42,7 +42,8 @@ Forensics in a nutshell
 34) Keepass Dumper(**CVE-2023-32784**) --> https://github.com/vdohney/keepass-password-dumper
 35) gittools --> https://github.com/internetwache/GitTools
 36) minecraft chunks/mpas --> https://www.spigotmc.org/resources/chunky.81534/
-37) 
+37) twitter secret messages --> https://holloway.nz/steg/
+38) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
