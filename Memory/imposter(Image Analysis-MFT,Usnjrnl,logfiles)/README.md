@@ -1,5 +1,5 @@
 # File:
-https://drive.google.com/file/d/1hJRDARbaAAR3RbjufXL2vGzWF4j7sk__/view  
+https://drive.google.com/file/d/16ozDBbuIoud-lhkpA3E2HN1rprXcQyFA/view?usp=drive_web   
 
 ## Solve:  
 https://a1l4m.medium.com/cyctf-finals-2023-forensics-writeups-f73ef9caa0cb  
