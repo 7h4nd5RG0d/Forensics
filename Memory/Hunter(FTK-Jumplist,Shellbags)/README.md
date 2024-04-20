@@ -9,5 +9,5 @@ https://forensicskween.com/ctf/cyberdefenders/hunter/
 1) Shellbag is present in usrclass.dat **(C:Users< user_name >AppData\Local\Microsoft\Window)** .  
    Directory traversal info is stored here.  
    A shellbag entry is created every time a new file is created.  
-2) Jumplists are records of recently accessed files and folders frouped by applications basis **(%APPDATA%Microsoft\Windows\Recent)**  
+2) Jumplists are records of recently accessed files and folders grouped by applications basis **(%APPDATA%Microsoft\Windows\Recent)**  
    They have -ms extension.  
