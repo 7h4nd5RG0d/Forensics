@@ -49,7 +49,12 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 36) minecraft chunks/maps --> https://www.spigotmc.org/resources/chunky.81534/
 37) twitter secret messages --> https://holloway.nz/steg/
 38) impacket (dumping secrets from NTDS,SYSTEM,SECURITY,SOFTWARE) --> https://github.com/fortra/impacket#quick-start
-39) 
+39) inspectrum --> https://github.com/miek/inspectrum 
+40) gnuradio --> https://wiki.gnuradio.org/index.php/WindowsInstall
+41) gqrx --> https://www.gqrx.dk/download  
+42) Sonic Visualizer
+43) Audacity
+44) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
@@ -58,4 +63,12 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 4) TCP using nmap --> https://nmap.org/book/scan-methods-null-fin-xmas-scan.html
 5) Volatility notepad dumping(VAD--Windbg) --> https://infosecwriteups.com/extracting-an-unsaved-memory-content-by-walking-through-windows-heaps-but-how-6992589d872e
 6) Volatility Cheatsheet --> https://blog.onfvp.com/post/volatility-cheatsheet/
-7) 
+7) HTB --> https://app.hackthebox.com/
+8) Labs --> https://github.com/frankwxu/digital-forensics-lab/tree/main
+9) Memlabs --> https://github.com/stuxnet999/MemLabs#tools-and-frameworks-hammer_and_wrench
+10) DFIR --> https://aboutdfir.com/education/challenges-ctfs/
+11) DFIR --> https://www.dfir.training/books/2023
+12) tryhackme --> https://tryhackme.com/
+13) ctflearn --> https://ctflearn.com/
+14) Splunk --> https://bots.splunk.com/event/3oQ7sqI5bajOCP43o0svqT/detail
+15) 
