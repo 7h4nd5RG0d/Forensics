@@ -22,3 +22,5 @@ https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/freeflag(WORD)--
 9) Running the C# code on https://dotnetfiddle.net/ we get the flag.  
 ## Something new:  
 1) Images may contain alternate text for helping visually impaired images which comes under macros.
+2) Look out for the hexadecimal pattern **fc e8 82 00 00 00 ...** to identify shellcode.
+3) Shellcode Analysis:- https://medium.com/ce-digital-forensics/analysing-metasploit-framework-shellcode-e66b89411000  
