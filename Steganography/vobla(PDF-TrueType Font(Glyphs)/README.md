@@ -10,3 +10,7 @@ https://github.com/Team-Drovosec/sasctf-quals-2024/tree/main/tasks/stego-vobla
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/13612745-d7d9-4e10-9fab-88a037fadea7)
 5) Double clicking on the glyph and zooming in we get the flag.
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/c316545e-b722-42e8-96a5-fbe829c5d555)
+
+# Something new: 
+1) otf,ttf can be converted to ttx formats,which is XML format using **ttx** command.
+  https://fonttools.readthedocs.io/en/latest/ttx.html
