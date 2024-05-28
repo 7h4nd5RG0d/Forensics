@@ -54,7 +54,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 41) gqrx --> https://www.gqrx.dk/download  
 42) Sonic Visualizer
 43) Audacity
-44) 
+44) fontforge --> https://fontforge.org/en-US/downloads/windows/
+45) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
