@@ -55,7 +55,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 42) Sonic Visualizer
 43) Audacity
 44) fontforge --> https://fontforge.org/en-US/downloads/windows/
-45) 
+45) Fonts debugging using otf2fea --> pip install fontFeatures
+46) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
