@@ -1,5 +1,5 @@
 # File: 
-
+https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/gibberish(USB%2BSTENO)/keyboard.pcapng.xz
 # Solve: 
 https://www.openstenoproject.org/demo/  
 https://slefforge.github.io/writeups/Gibberish/writeup.html  
