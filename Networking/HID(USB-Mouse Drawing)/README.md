@@ -15,7 +15,7 @@ https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/HID(USB-Mouse%20Dra
 5) Now we need to convert it into an image.
 6) We can observe that the coordinates are very small and repetitive meaning we have the displacement and not the exact position of the mouse--> if X=1 and Y=0 then the mouse has moved +1 to X and 0 to Y.  
 7) So just write a code for that and we get the flag.
-8) Here is the code that I used --> 
+8) Here is the code that I used --> https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/HID(USB-Mouse%20Drawing)/code.py  
 9) Keep something in mind after seeing the inital image formed. -->  
 a) Image is inverted so -->flip the y axis  
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/9441c8e6-a5f3-4e53-99ab-2c80237dae31)
