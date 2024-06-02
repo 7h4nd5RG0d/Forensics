@@ -1,5 +1,5 @@
 # File:  
-
+https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/HID(USB-Mouse%20Drawing)/capture.pcapng
 # Solve:  
 1) Recognising the relevant data , we see USB capture and USBHUB data --> We need to find the USB device connected to port 7.  
 2) Going through the packets in wireshark using filter "frame.len==71" ( Why? since just by scrolling you can see that majority of packets have either length 64 or 71, and by experience the larger packet contains HID data, we need to filter the larger one).
