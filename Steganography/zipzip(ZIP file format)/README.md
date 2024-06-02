@@ -28,7 +28,9 @@ https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/zipzip(ZIP%20fil
 **Here I did backtracking, so the file name is as above, length is 32 bytes and so on we go back and get that the compressed data is 13 bytes long**  
 10) So taking the next 13 bytes after the name we get the compressed data bytes as **F3 33 08 08 AE AE 32 2C 88 47 C2 B5 00**  
 11) And we know that is deflate method from above so just using zlib.deflate gives us the flag.   
-This is the code for deflating -->  
+This is the code for deflating -->  https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/zipzip(ZIP%20file%20format)/code2.py  
+
+    
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/c5879be5-59e2-4d9b-a898-a0b0c0b01ce9)
 
 
