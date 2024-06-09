@@ -19,8 +19,8 @@ https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/saveme/saveme-ch
 9) Using dnSpy to decompile it we see that it is using 3DES with a hardcoded "iv" and "key".
 ![2](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/43a9fa3c-5243-48e8-b1e8-93d03bbe7eef)
 ![3](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/1cd7ca1e-d3a4-4c90-901f-c6a505a9e76e)
-10) So we have everything we need to decrypt the images --> using this script I decoded the only PNG among them and got the flag --> https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/saveme/2.py
-  
+10) So we have everything we need to decrypt the images --> using this script I decoded the only PNG among them and got the flag --> https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/saveme(WORD%20%2B.NET%20)/2.py
+
 ![decrypted_file](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/2f2cec0a-cb18-4655-a098-e5298fc343e9)
 
 
