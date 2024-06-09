@@ -1,7 +1,6 @@
 # Files: 
-https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/Sharing%20is%20not%20Caring/network.pcapng  
 https://drive.google.com/file/d/1mTV9RZKhE8AyYRwGzlT0Glm9YsQ5Xlzl/view?usp=drive_web  
-
+https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/Sharing%20is%20not%20Caring(Shared%20Folder%2BTLS%20Decrypt)/network.pcapng  
 # Solve: 
 1) The description hints towards a shared folder.
 2) This is usually the Public folder that is accessible to all the users in the computer.
