@@ -1,6 +1,5 @@
 # File: 
-https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/saveme/saveme-chall.zip  
-
+https://github.com/7h4nd5RG0d/Forensics/blob/main/Steganography/saveme(WORD%20%2B.NET%20)/saveme-chall.zip
 # Solve: 
 1) Unzipping the file, we see lots of images which seem to be have corrupted--> hinting towards ransomware.  
 2) Also a .docm file is given --> running olevba on it tells us no **macros** is present in the doc.  
