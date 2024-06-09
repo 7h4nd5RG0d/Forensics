@@ -14,17 +14,18 @@ https://drive.google.com/file/d/1-pDyle734PztiK5_6VMiQ1EzG7IGGsmc/view?usp=drive
 6) So we need to decrypt the data sent and received on port 1337.
 7) We first export the needed packets to make it easier for decryption.
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/cf39433e-799a-49f8-b027-0f375333d8f8)
-8) Then running this script for decryption we get something .. --> 
+8) Then running this script for decryption we get something .. --> https://github.com/7h4nd5RG0d/Forensics/blob/main/Memory/Snooz(Notepad%2B.NET)/4.py
+  
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/f80272a0-a57b-4a7b-be1b-861f6ea8bd2e)    
-9) Some password for pastecode --> pastecode=pastebin --> there must be some pastecode link in the dump that need this password.  
-10) Going to the dump,we see there is notepad.exe running which is suspicious. ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/ad235a8e-a576-4d20-901d-d2546575344c)
-11) So dumping the process using **python3 vol.py -f ../../memdump.mem -o c windows.memmap --pid 3608 --dump** and then going to the directory and running **strings * -e l** we get a pastebin link.(The dump is always little endian so we use **-e l** for that)/(We run strings since notes in notepad are stored in the file format itself so when we run strings notepad data is visible).  
+10) Some password for pastecode --> pastecode=pastebin --> there must be some pastecode link in the dump that need this password.  
+11) Going to the dump,we see there is notepad.exe running which is suspicious. ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/ad235a8e-a576-4d20-901d-d2546575344c)
+12) So dumping the process using **python3 vol.py -f ../../memdump.mem -o c windows.memmap --pid 3608 --dump** and then going to the directory and running **strings * -e l** we get a pastebin link.(The dump is always little endian so we use **-e l** for that)/(We run strings since notes in notepad are stored in the file format itself so when we run strings notepad data is visible).  
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/ff92fc25-fc04-486f-8f36-3761b7fce933)
-12) So going to the link and entering the password we get base64 data.
-13) Popping it in cyberchef we get a **zip file**. (PK header) ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/e9087936-b4c0-45a0-819f-155dffd96bad)
-14) So we try to unzip it but gives an error in kali so I just used 7-zip file manager to navigate till flag.jpg.![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/9302c30b-41cc-4212-a2d0-beee99317de1)
-15) But it is password protected so I again went back and did **strings * -e l | grep -i 'password** and we get the password for the file.![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/69f9b25d-626e-4218-9d80-c0a2e861b150)
-16) Extracting flag.jpg and using stegseek we get the flag FINALLYYYYYYYYYYYYYYYY.
+13) So going to the link and entering the password we get base64 data.
+14) Popping it in cyberchef we get a **zip file**. (PK header) ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/e9087936-b4c0-45a0-819f-155dffd96bad)
+15) So we try to unzip it but gives an error in kali so I just used 7-zip file manager to navigate till flag.jpg.![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/9302c30b-41cc-4212-a2d0-beee99317de1)
+16) But it is password protected so I again went back and did **strings * -e l | grep -i 'password** and we get the password for the file.![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/69f9b25d-626e-4218-9d80-c0a2e861b150)
+17) Extracting flag.jpg.out from flag.jpg and using **stegseek** we get the flag FINALLYYYYYYYYYYYYYYYY.
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/36a3ff48-e979-4975-8004-85c54b449783)
 
  
