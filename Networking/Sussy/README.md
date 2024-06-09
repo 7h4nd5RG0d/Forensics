@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1tdPBWDPuGtYGMdIrgYZTLUPaHJop_GXP/view?usp=drive
 3) So we have to extract the hex values and concatenate them while making sure we get each hex string only once.
 4) Using this **dns && frame.len==170 && dns.qry.type==A** we get each hex string only once. Exporting these packets using wireshark to a new pcapng makes it easy.
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/2339dc3b-dfda-463d-a78b-fe045fa00a04)
-5) Now using this script we can get the hex strings concatenated ->
+5) Now using this script we can get the hex strings concatenated -> https://github.com/7h4nd5RG0d/Forensics/blob/main/Networking/Sussy/1.py
 6) After popping it in cyberchef and running "To Hex" we get something that looks like a 7z file format.
 ![image](https://github.com/7h4nd5RG0d/Forensics/assets/128285431/e843d7e0-20d3-4964-b474-82eb2118441e)
 7) So saving it as a file and then trying to extract we see an error, inavlid file.
