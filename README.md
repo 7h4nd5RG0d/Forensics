@@ -57,7 +57,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 44) fontforge --> https://fontforge.org/en-US/downloads/windows/
 45) Fonts debugging using otf2fea --> pip install fontFeatures
 46) .NET disassmblt -> Andriod studio dotpeek
-47) 
+47) RDP Bitmap Cacher -> https://github.com/ANSSI-FR/bmc-tools/
+48) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
