@@ -19,4 +19,5 @@ minikube  --> https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%
 kubectl   --> https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/  
 hyperv  --> https://pureinfotech.com/install-hyperv-home-windows-11/
 
-2) 
+2) modprobe -> can be used to mount files using nbd(network block device) ---> sudo qemu-nbd --connect=/dev/sbd0 ext4.vhdx.
+3) 
