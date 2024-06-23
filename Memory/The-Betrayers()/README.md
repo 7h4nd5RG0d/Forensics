@@ -1,7 +1,7 @@
 # FIle: 
-
+https://drive.google.com/file/d/1QNUnd4CEXXrqAC9cnvlUE-AW-aeWDszd/view  
 # Solve: 
-
+https://github.com/securinets-insat/Securinets-Quals-CTF-2023-Public/tree/main/Forensics/The-Betrayers
 # Something new: 
 1) Kuberntes:(multiple containerisation, K8s)  
 a) Pods are smallest unit of kubernetes.  
@@ -17,7 +17,6 @@ j) kubectl connects to API server using REST api.
 https://www.youtube.com/watch?v=d6WC5n9G_sM&t=155s  
 minikube  --> https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download  
 kubectl   --> https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/  
-hyperv  --> https://pureinfotech.com/install-hyperv-home-windows-11/  
+hyperv  --> https://pureinfotech.com/install-hyperv-home-windows-11/
 
-
-
+2) 
