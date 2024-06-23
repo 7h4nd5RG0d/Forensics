@@ -13,11 +13,11 @@ f) Master node runs only system nodes which is responsble for the functioning of
 g) Each node has container runtime, kubelet(connects with the API server in master node), kube-proxy(resposible for netwrok communication between nodes and within the node)  
 h) The master node also has scheduler(planning and distribution of load between nodes), Kube control manager(controls everything in the cluster), cloud control manager, etcd (stores all logs of cluster, stored as key-value pair), DNS servers.  
 i) kubectl connects to specific cluster and allows remote control of the cluster.  
-j) kubectl connects to API server using REST api.
-https://www.youtube.com/watch?v=d6WC5n9G_sM&t=155s
-minikube  --> https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download
-kubectl   --> https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
-hyperv  --> https://pureinfotech.com/install-hyperv-home-windows-11/
+j) kubectl connects to API server using REST api.  
+https://www.youtube.com/watch?v=d6WC5n9G_sM&t=155s  
+minikube  --> https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download  
+kubectl   --> https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/  
+hyperv  --> https://pureinfotech.com/install-hyperv-home-windows-11/  
 
 
 
