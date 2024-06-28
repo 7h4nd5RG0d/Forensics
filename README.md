@@ -75,4 +75,4 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 12) tryhackme --> https://tryhackme.com/
 13) ctflearn --> https://ctflearn.com/
 14) Splunk --> https://bots.splunk.com/event/3oQ7sqI5bajOCP43o0svqT/detail
-15) 
+15) Lsass ==> https://github.com/mazyaar/lsass_memory?tab=readme-ov-file#file-monitoring
