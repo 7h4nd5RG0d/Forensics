@@ -58,7 +58,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 45) Fonts debugging using otf2fea --> pip install fontFeatures
 46) .NET disassmblt -> Andriod studio dotpeek
 47) RDP Bitmap Cacher -> https://github.com/ANSSI-FR/bmc-tools/
-48) 
+48) eaphammer(WIFI) -> https://github.com/s0lst1c3/eaphammer
+49) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
@@ -76,3 +77,5 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 13) ctflearn --> https://ctflearn.com/
 14) Splunk --> https://bots.splunk.com/event/3oQ7sqI5bajOCP43o0svqT/detail
 15) Lsass ==> https://github.com/mazyaar/lsass_memory?tab=readme-ov-file#file-monitoring
+16) Browser Exploitation Framework ->https://www.stationx.net/beef-hacking-tool/
+17) 
