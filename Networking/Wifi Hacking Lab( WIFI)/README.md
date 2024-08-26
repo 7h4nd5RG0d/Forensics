@@ -33,13 +33,23 @@ https://r4ulcl.com/posts/wifi_db-in-wifichallenge-lab/
 10) **WPA3** --> https://github.com/blunderbuss-wctf/wacker
           Passwords for WPA3 can be bruteforced using **wacker**.
           ./wacker.py --wordlist ~/rockyou-top100000.txt --ssid <> --bssid <> --interface wlan2 --freq 2462  
-          WPA3's SAE(Simultaneous Authentification of Equals) also known as **dragonfly** is affected by password-partitioning attacks which occur by abusing timing or cache-based side channel attacks.  
+          WPA3's SAE(Simultaneous Authentification of Equals) also known as **dragonfly** is affected by password-partitioning attacks which occur by abusing timing or cache-based side channel attacks.
+          The side channel attacks target the protocol's password encoding algorithm.
+          
           Cache-based attack exploys the hash-to-curve algorithm.  
           https://kaliboys.com/wp-content/uploads/2019/04/dragonbloodkaliboys.com_.pdf#:~:text=Most%20prominently%2C%20we%20show%20that%20WPA3%E2%80%99s%20Simultaneous%20Authentication,password%20by%20abusing%20timing%20or%20cache-based%20side-channel%20leaks.
         WPA3-SAE(home network) and WPA3-Enterprise(Enterprise networks).  
         After the SAE handshake, we get a Pairwise Master Key(PMK) which is used for a 4-way handshake to get Pairwise Transient Key(PTK).  
         The Management Frame Protocol(MFP) is used to prevent deauthentification attacks in both the modes.  
-        
+11) **MGT** --> Commonly used in corporate networks.  
+                In these networks each user has their own authentification which can be a username and password or a certificate.  
+                Attacks against MGT involve obtaining reconnaissance of the clients and AP, identity info,certificate info and EAP info about the network.  
+                To create a TLS tunnel between the MGT network and client, the AP sends the Certificate in PT which can be viewed using **pcapfilter.sh**  
+                https://github.com/r4ulcl/wifi_db  
+    https://gist.github.com/r4ulcl/f3470f097d1cd21dbc5a238883e79fb2  
+    https://github.com/blackarrowsec/EAP_buster
+    
+     
     
           
 
