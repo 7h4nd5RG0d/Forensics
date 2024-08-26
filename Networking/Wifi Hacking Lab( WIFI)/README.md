@@ -47,8 +47,21 @@ https://r4ulcl.com/posts/wifi_db-in-wifichallenge-lab/
                 To create a TLS tunnel between the MGT network and client, the AP sends the Certificate in PT which can be viewed using **pcapfilter.sh**  
                 https://github.com/r4ulcl/wifi_db  
     https://gist.github.com/r4ulcl/f3470f097d1cd21dbc5a238883e79fb2   
-    https://github.com/blackarrowsec/EAP_buster -> lists what EAP methods are supported by the RADIUS servers behind the WPA Enterprise AP.  
-    https://github.com/Wh1t3Rh1n0/air-hammer/ -> WPA Enterprise horizontal brute froce attack.  
+    https://github.com/blackarrowsec/EAP_buster -> lists what EAP methods are supported by the RADIUS servers behind the WPA Enterprise AP.   
+    https://github.com/Wh1t3Rh1n0/air-hammer/ -> WPA Enterprise horizontal brute force attack.  
+    Even though WPA-Enterprise is more secure than WPA-PSK, it also has a large attack surface, since PSK has only username-password but Enterprise has thousands for the same.  
+12) **RADIUS(Remote Authentification Dial-In User)** -> provides centralised authentification,authorization and accounting(AAA) to users.  
+      It is a client/server protocol that runs in Application layer using TCP/UDP.  
+    It is usually a background process running on Unix/Windows.  
+    Uses 2 types of packets-> Access-Request and Accounting-Request.  
+    **Blast RADIUS Attack** breaks RADIUS when transported in plain UDP by attacking MD5 within RADIUS.  
+13) **EAP(Extensible Authentification Protocol** -->  authentification framework   
+14) **KRACK(Key Reinstallation Attack)** --> exploits vulnerability in WPA2.  
+      Vulnerability -> WPA2 is initiated with a 4-way handshake although for reconnecting only the 3rd part is needed, and this is exploited as this is a repeating step.  
+      The attacker can setup a clone network, and force the client to use the network by positioning themselves as an on-path attacker.  
+      After connection, the 3rd part of the handshake is sent again and again and each time that the client accepts the connection request, data is decrypted which eventually leads to the cracking of encryption key.  
+    
+    
     
     
     
