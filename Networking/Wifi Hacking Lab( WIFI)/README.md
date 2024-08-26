@@ -46,8 +46,11 @@ https://r4ulcl.com/posts/wifi_db-in-wifichallenge-lab/
                 Attacks against MGT involve obtaining reconnaissance of the clients and AP, identity info,certificate info and EAP info about the network.  
                 To create a TLS tunnel between the MGT network and client, the AP sends the Certificate in PT which can be viewed using **pcapfilter.sh**  
                 https://github.com/r4ulcl/wifi_db  
-    https://gist.github.com/r4ulcl/f3470f097d1cd21dbc5a238883e79fb2  
-    https://github.com/blackarrowsec/EAP_buster
+    https://gist.github.com/r4ulcl/f3470f097d1cd21dbc5a238883e79fb2   
+    https://github.com/blackarrowsec/EAP_buster -> lists what EAP methods are supported by the RADIUS servers behind the WPA Enterprise AP.  
+    https://github.com/Wh1t3Rh1n0/air-hammer/ -> WPA Enterprise horizontal brute froce attack.  
+    
+    
     
      
     
