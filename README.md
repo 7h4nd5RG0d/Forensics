@@ -59,7 +59,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 46) .NET disassmblt -> Andriod studio dotpeek
 47) RDP Bitmap Cacher -> https://github.com/ANSSI-FR/bmc-tools/
 48) eaphammer(WIFI) -> https://github.com/s0lst1c3/eaphammer
-49) 
+49) MITRE --> https://attack.mitre.org/tactics/enterprise/
+50) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
