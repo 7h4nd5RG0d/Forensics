@@ -61,7 +61,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 48) eaphammer(WIFI) -> https://github.com/s0lst1c3/eaphammer
 49) MITRE --> https://attack.mitre.org/tactics/enterprise/
 50) Hindsight(WEB forensics) --> https://github.com/obsidianforensics/hindsight
-51) 
+51) Hayabusa YARA --> https://github.com/Yamato-Security/hayabusa-rules
+52) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
