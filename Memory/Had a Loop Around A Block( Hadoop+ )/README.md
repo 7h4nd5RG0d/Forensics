@@ -1,7 +1,7 @@
 # File:
-
+https://archive.org/download/Case2-HDFS
 # Solve:
-
+https://www.petermstewart.net/magnet-weekly-ctf-week-5-had-a-loop-around-the-block/
 # Something new:
 1) **Hadoop Cluster** : handling big data.  
        Designed for distributed storage and processing of large datasets arcoess a cluster of computers using simple programming languages.  
