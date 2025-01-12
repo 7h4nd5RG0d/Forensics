@@ -12,4 +12,4 @@ https://drive.google.com/file/d/1P9uLCpvN__fN4MIP_lRxmc9hRdMVPJ85/view?usp=drive
 1) Use this to load volatility profiles--> https://raksec.blogspot.com/2017/02/forensics-ctf-challenge-ramdisk-writeup.html  
 2) Linux Forensics + Kernel Reversing ==> https://stuxnet999.github.io/dfir/insomnihack-teaser-2020-getdents/  
 3) To create own profile in volatiltiy -> https://github.com/volatilityfoundation/volatility/wiki/Linux#creating-a-new-profile  
-4) Kernel Module Reversing
+4) Kernel Module Reversing basic -> https://www.debasish.in/2014/02/reversing-tiny-built-in-windows-kernel.html
