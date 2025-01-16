@@ -63,7 +63,8 @@ https://github.com/7h4nd5RG0d/Forensics/tree/main/RF
 50) Hindsight(WEB forensics) --> https://github.com/obsidianforensics/hindsight
 51) Hayabusa YARA --> https://github.com/Yamato-Security/hayabusa-rules
 52) Analyzing Volume Shadow Copies --> https://www.shadowexplorer.com/downloads.html
-53) 
+53) MACOS Keychain --> https://github.com/n0fate/chainbreaker
+54) 
 
 # Resources:  
 1) File Signatures --> https://en.wikipedia.org/wiki/List_of_file_signatures
