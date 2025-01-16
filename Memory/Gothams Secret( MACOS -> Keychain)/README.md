@@ -6,4 +6,4 @@ pwd --> a1l4m
 Creds -> a1l4m
 # Something new:
 1) MACOS Forensics -> https://h11dfs.com/7-essential-artifacts-for-macos-forensics/
-2) 
+2) Autologin -> https://www.offsec.com/blog/in-the-hunt-for-the-macos-autologin-setup-process/?utm_source=chatgpt.com , https://www.brunerd.com/blog/2021/09/16/decoding-macos-automatic-login-details/?utm_source=chatgpt.com
