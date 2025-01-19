@@ -8,7 +8,7 @@ https://www.petermstewart.net/magnet-weekly-ctf-week-6-the-elephant-in-the-room/
 2) LINUX FORENSICS --> https://www.youtube.com/watch?v=bXCmroKa9U0  
 # Something new:
 1) **Hadoop Cluster** : handling big data.  
-       Designed for distributed storage and processing of large datasets arcoess a cluster of computers using simple programming languages.  
+       Designed for distributed storage and processing of large datasets arcoss a cluster of computers using simple programming languages.  
        Data is divided into blocks and stored across various nodes in a cluster.  
        If a node fails, data is replicated across multiple nodes ensuring no loss.  
        Namenode is the main node of the cluster along with HA(High Availability) architecture.  
