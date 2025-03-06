@@ -5,4 +5,4 @@ https://github.com/thmai11/writeups/blob/main/2025/apoorvctf/blend_in_disguise/e
 
 
 # Something new:
-1) Bledner scripts can be written in scripting tab.
+1) Blender scripts can be written in scripting tab.
