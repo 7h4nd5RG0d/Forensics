@@ -12,4 +12,4 @@ https://abuctf.github.io/posts/ApoorvCTF/
                            IPS's do not route multicast packets over the internet to prevent congestion.  
                            A multicast packet is sent from one source to multiple recipients simultaneously. Reduced Bandwidth, used in video streaming,online gaming.  
        b) L2TP tunnel --> combined with IPSec for security
-6) 
+6) Switches(same network) operate in layer 2, while routers(different networks) operate in layer 3. 
